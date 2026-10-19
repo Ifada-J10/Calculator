@@ -1,3 +1,3 @@
 #Calculator lab project
 ##How to run it
-coming in Week 3
+Run: python3 calculator.py
