@@ -19,7 +19,7 @@ def CircleArea(r):
 		return 3.14 * r *r 
 
 	else:
-		return "NaN"
+		return "Error"
 def main():
 	while True:
 		a = float(input("First number:"))
